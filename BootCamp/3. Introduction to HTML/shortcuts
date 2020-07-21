@@ -1,0 +1,12 @@
+https://www.jetbrains.com/help/idea/editing-html-files.html#ws_html_surround_code_fragment_with_tag
+
+  Wrapping a code fragment in a tag﻿
+  Select the code fragment to wrap and press Ctrl+Alt+T or select Code | Surround With from the main menu.
+  From the list, select Wrap with Tag. IntelliJ IDEA encloses the selection in a pair of brackets (<> and </>).
+  Type the tag inside the opening brackets <>. IntelliJ IDEA automatically fills in the tag in the closing brackets </>.
+
+  View documentation for a tag or an attribute﻿
+  Position the caret at the tag or the attribute and press Ctrl+Q or select View | Quick Documentation Lookup from the main menu.
+  When you hover the mouse pointer over a tag or an attribute, IntelliJ IDEA immediately displays the reference for it in the Documentation popup.
+  You can turn off this behavior or configure the popup to appear faster or slower, see Configuring the behavior of Documentation popup below.
+
