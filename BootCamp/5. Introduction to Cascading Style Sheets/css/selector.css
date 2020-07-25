@@ -1,0 +1,41 @@
+/*type selector*/
+li{
+
+}
+/*class selector*/
+.hello{
+
+}
+/*id selector*/
+#special{
+
+}
+/*Star Selector*/
+*{
+  border: 1px solid lightgrey;
+}
+/*Descendant Selector*/
+li a {
+  color: red;
+}
+li .hello{
+
+}
+/*Adjacent Selector*/
+h4 + ul{
+  border: 4px solid red;
+}
+/*Attribute Selector*/
+a[href="http://www.google.com"]{
+  background: darkblue;
+}
+input[type="checkbox"]{
+
+}
+/*nth of type*/
+ul:nth-of-type(3){
+  background: #b3d4fc;
+}
+/*pseudo class selectors*/
+/*a: hover*/
+/*input: checked*/

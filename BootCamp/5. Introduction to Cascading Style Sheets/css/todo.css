@@ -1,0 +1,19 @@
+/*body{*/
+/*  background: crimson;*/
+/*}*/
+#special{
+  color: gold;
+  background: #b3d4fc;
+}
+#divspecial{
+  color: burlywood;
+}
+.firstTwo{
+  color: darkcyan;
+  background: darkseagreen;
+  text-decoration: line-through;
+}
+.midTwo{
+  color: thistle;
+  background: #555555;
+}
