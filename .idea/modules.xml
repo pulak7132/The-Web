@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BootCamp/3. Introduction to HTML/3. Introduction to HTML.iml" filepath="$PROJECT_DIR$/BootCamp/3. Introduction to HTML/3. Introduction to HTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootCamp/4. Intermediate HTML/4. Intermediate HTML.iml" filepath="$PROJECT_DIR$/BootCamp/4. Intermediate HTML/4. Intermediate HTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootCamp/5. Introduction to Cascading Style Sheets/5. Introduction to Cascading Style Sheets.iml" filepath="$PROJECT_DIR$/BootCamp/5. Introduction to Cascading Style Sheets/5. Introduction to Cascading Style Sheets.iml" />
+    </modules>
+  </component>
+</project>

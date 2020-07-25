@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Signup</title>
+</head>
+<body>
+  <h1>Register</h1>
+  <form>
+    <div id="textName">
+      <label for="firstname">First Name:</label>
+      <input name="firstName" id="firstname" type="text" required>
+      <label for="lastname">Last Name:</label>
+      <input name="lastName" id="lastname" type="text" required>
+    </div>
+    <div id="radioGender">
+      <label for="male">Male</label>
+      <input name="gender" id="male" type="radio" value="M">
+      <label for="female">Female</label>
+      <input name="gender" id="female" type="radio" value="F">
+      <label for="other">Other</label>
+      <input name="gender" id="other" type="radio" value="O">
+    </div>
+    <div id="textEmailPass">
+      <label for="email">Email:</label>
+      <input name="Email" id="email" type="email" required>
+      <label for="password">Password:</label>
+      <input name="Password" id="password" type="password" maxlength="10" minlength="5">
+    </div>
+    <label for="selectDOB">Birthday:</label>
+    <div id="selectDOB">
+      <select id="month" name="Month">
+        <option value="May">May</option>
+        <option value="June">June</option>
+        <option value="July">July</option>
+      </select>
+      <select id="day" name="Day">
+        <option value="7">7</option>  
+        <option value="8">8</option>
+        <option value="9">9</option>
+      </select>
+      <select id="year" name="Year">
+        <option value="1987">1987</option>
+        <option value="1988">1988</option>
+        <option value="1989">1989</option>
+      </select>
+    </div>
+    <label for="checkboxTerms">I agree to the terms and conditions</label>
+    <input id="checkboxTerms" type="checkbox" required >
+    <input type="Submit">
+  </form>
+</body>
+</html>
